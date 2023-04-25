@@ -18,6 +18,8 @@ public class RandomColor : MonoBehaviour
     public void Start()
     {
         GetComponent<Renderer>().material.color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+
+        
     }
 
 
@@ -25,11 +27,14 @@ public class RandomColor : MonoBehaviour
     public void Update()
     {
         StartCoroutine(WaitAndPrint());
-        
+
+
     }
 
     public void ChangeColor()
     {
         GetComponent<Renderer>().material.color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
     }
+
+  
 }

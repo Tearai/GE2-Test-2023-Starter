@@ -501,7 +501,7 @@ GameObject:
   - component: {fileID: 5331141391894880135}
   - component: {fileID: 5331141391894880136}
   - component: {fileID: 5331141391894880131}
-  - component: {fileID: 7796850025008916039}
+  - component: {fileID: 7352560543965348345}
   m_Layer: 0
   m_Name: follower (2)
   m_TagString: Untagged
@@ -624,7 +624,7 @@ MonoBehaviour:
   force: {x: 0, y: 0, z: 0}
   boid: {fileID: 0}
   leader: {fileID: 5331141392289497376}
---- !u!114 &7796850025008916039
+--- !u!114 &7352560543965348345
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5331141391894880137}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30903b258a1c75445bf8cb376d047ca2, type: 3}
+  m_Script: {fileID: 11500000, guid: 0996d516176936c468da3aa24bcb3ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5331141392231500619
@@ -650,7 +650,7 @@ GameObject:
   - component: {fileID: 5331141392231500617}
   - component: {fileID: 5331141392231500618}
   - component: {fileID: 5331141392231500613}
-  - component: {fileID: 1206058977629170168}
+  - component: {fileID: 5241696005764894283}
   m_Layer: 0
   m_Name: follower (1)
   m_TagString: Untagged
@@ -773,7 +773,7 @@ MonoBehaviour:
   force: {x: 0, y: 0, z: 0}
   boid: {fileID: 0}
   leader: {fileID: 5331141392289497376}
---- !u!114 &1206058977629170168
+--- !u!114 &5241696005764894283
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -782,7 +782,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5331141392231500619}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30903b258a1c75445bf8cb376d047ca2, type: 3}
+  m_Script: {fileID: 11500000, guid: 0996d516176936c468da3aa24bcb3ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5331141392289497382
@@ -970,7 +970,7 @@ GameObject:
   - component: {fileID: 5331141392386118683}
   - component: {fileID: 5331141392386118684}
   - component: {fileID: 5331141392386118679}
-  - component: {fileID: 1207715939394467982}
+  - component: {fileID: 1096560475816338691}
   m_Layer: 0
   m_Name: follower (4)
   m_TagString: Untagged
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   force: {x: 0, y: 0, z: 0}
   boid: {fileID: 0}
   leader: {fileID: 5331141392289497376}
---- !u!114 &1207715939394467982
+--- !u!114 &1096560475816338691
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5331141392386118685}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30903b258a1c75445bf8cb376d047ca2, type: 3}
+  m_Script: {fileID: 11500000, guid: 0996d516176936c468da3aa24bcb3ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5331141392733711896
@@ -1150,7 +1150,7 @@ GameObject:
   - component: {fileID: 5331141392798325533}
   - component: {fileID: 5331141392798325534}
   - component: {fileID: 5331141392798325529}
-  - component: {fileID: 2264191663636427625}
+  - component: {fileID: 8164356285294818062}
   m_Layer: 0
   m_Name: follower (3)
   m_TagString: Untagged
@@ -1273,7 +1273,7 @@ MonoBehaviour:
   force: {x: 0, y: 0, z: 0}
   boid: {fileID: 0}
   leader: {fileID: 5331141392289497376}
---- !u!114 &2264191663636427625
+--- !u!114 &8164356285294818062
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1282,7 +1282,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5331141392798325535}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30903b258a1c75445bf8cb376d047ca2, type: 3}
+  m_Script: {fileID: 11500000, guid: 0996d516176936c468da3aa24bcb3ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5331141393071333497
